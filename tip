@@ -12,7 +12,7 @@
  * This class holds data for a tip
  * one would leave at a restaurant
  *
- * @author Sameer Gupta
+ * @author Sgupta40
  * @version 1/16/2020
  */
 public class Tip
@@ -77,7 +77,7 @@ import java.util.*;
  * class and call its methods to calculate and display 
  * a tip amount based on uer-inputted values
  *
- * @author Sameer Gupta
+ * @author Sgupta40
  * @version 1/21/2020
  */
 public class TipDriver
